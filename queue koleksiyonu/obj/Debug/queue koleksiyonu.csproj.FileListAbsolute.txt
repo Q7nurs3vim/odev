@@ -1,0 +1,21 @@
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\queue koleksiyonu\queue koleksiyonu\bin\Debug\queue koleksiyonu.exe.config
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\queue koleksiyonu\queue koleksiyonu\bin\Debug\queue koleksiyonu.exe
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\queue koleksiyonu\queue koleksiyonu\bin\Debug\queue koleksiyonu.pdb
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\queue koleksiyonu\queue koleksiyonu\obj\Debug\queue koleksiyonu.csproj.AssemblyReference.cache
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\queue koleksiyonu\queue koleksiyonu\obj\Debug\queue_koleksiyonu.Form1.resources
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\queue koleksiyonu\queue koleksiyonu\obj\Debug\queue_koleksiyonu.Properties.Resources.resources
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\queue koleksiyonu\queue koleksiyonu\obj\Debug\queue koleksiyonu.csproj.GenerateResource.cache
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\queue koleksiyonu\queue koleksiyonu\obj\Debug\queue koleksiyonu.csproj.CoreCompileInputs.cache
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\queue koleksiyonu\queue koleksiyonu\obj\Debug\queue koleksiyonu.exe
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\queue koleksiyonu\queue koleksiyonu\obj\Debug\queue koleksiyonu.pdb
+C:\Users\User\Desktop\queuekoleksiyonu-main\queue koleksiyonu\bin\Debug\queue koleksiyonu.exe.config
+C:\Users\User\Desktop\queuekoleksiyonu-main\queue koleksiyonu\bin\Debug\queue koleksiyonu.exe
+C:\Users\User\Desktop\queuekoleksiyonu-main\queue koleksiyonu\bin\Debug\queue koleksiyonu.pdb
+C:\Users\User\Desktop\queuekoleksiyonu-main\queue koleksiyonu\obj\Debug\queue koleksiyonu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\queuekoleksiyonu-main\queue koleksiyonu\obj\Debug\queue koleksiyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\queuekoleksiyonu-main\queue koleksiyonu\obj\Debug\queue_koleksiyonu.Form1.resources
+C:\Users\User\Desktop\queuekoleksiyonu-main\queue koleksiyonu\obj\Debug\queue_koleksiyonu.Properties.Resources.resources
+C:\Users\User\Desktop\queuekoleksiyonu-main\queue koleksiyonu\obj\Debug\queue koleksiyonu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\queuekoleksiyonu-main\queue koleksiyonu\obj\Debug\queue koleksiyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\queuekoleksiyonu-main\queue koleksiyonu\obj\Debug\queue koleksiyonu.exe
+C:\Users\User\Desktop\queuekoleksiyonu-main\queue koleksiyonu\obj\Debug\queue koleksiyonu.pdb
